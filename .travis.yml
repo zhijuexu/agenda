@@ -10,7 +10,7 @@ addons:
       # gcc 4.8+ requires ubuntu-toolchain-r-test
       - ubuntu-toolchain-r-test
       - mongodb-upstart
-      - mongodb-3.4-precise
+      - mongodb-3.6-precise
     packages:
       # NodeJS v4+ requires gcc 4.8+
       - g++-4.9
